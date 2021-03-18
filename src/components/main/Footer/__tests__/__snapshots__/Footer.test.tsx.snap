@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component Should render the footer 1`] = `
+<DocumentFragment>
+  <footer
+    class="sc-gsTCUz fkwGEN"
+    data-testid="footer"
+  >
+    <div
+      class="sc-dlfnbm bcMIIj"
+    >
+      <div
+        class="sc-hKgILt jsOJFj"
+      >
+        <div
+          class="sc-bdfBwQ kCPbJH"
+          data-testid="logo"
+        >
+          <a
+            href="/home"
+          >
+            Logo
+          </a>
+        </div>
+        <p
+          class="sc-eCssSg JMFhk"
+        >
+          © Copyright 2021
+        </p>
+      </div>
+      <div
+        class="sc-jSgupP dqEKVT"
+      >
+        <ul
+          class="sc-gKsewC cGHNYq"
+          data-testid="footer-links-container"
+        >
+          <li>
+            <a
+              href="/link-1"
+            >
+              Link 1
+            </a>
+          </li>
+          <li>
+            <a
+              href="/link-2"
+            >
+              Link 2
+            </a>
+          </li>
+          <li>
+            <a
+              href="/link-3"
+            >
+              Link 3
+            </a>
+          </li>
+        </ul>
+        <div
+          class="sc-iBPRYJ dAtxtZ"
+          data-testid="footer-social-medias-container"
+        >
+          <a
+            href="https://www.linkedin.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <svg
+              class="sc-jrAGrp htObCd"
+            >
+              LinkedInIcon.svg
+            </svg>
+          </a>
+          <a
+            href="https://www.instagram.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <svg
+              class="sc-pFZIQ jSCRPh"
+            >
+              InstagramIcon.svg
+            </svg>
+          </a>
+          <a
+            href="https://www.facebook.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <svg
+              class="sc-fubCfw bnodce"
+            >
+              FacebookIcon.svg
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</DocumentFragment>
+`;

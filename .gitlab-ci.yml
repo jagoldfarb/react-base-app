@@ -1,0 +1,54 @@
+image: alpine:latest
+
+stages:
+  - dependencies
+  - linters
+  - tests
+  - build
+
+install_dependencies:
+  stage: dependencies
+  image: node:14.15.4
+  script: 
+    - npm ci
+  artifacts:
+    expire_in: 1 days
+    paths:
+      - node_modules
+  only:
+    - master
+    - merge_requests
+
+linters:
+  stage: linters
+  image: node:14.15.4
+  script:
+    - npm run lint
+  dependencies:
+    - install_dependencies
+  only:
+    - master
+    - merge_requests
+
+tests:
+  stage: tests
+  image: node:14.15.4
+  script:
+    - npm run test
+  dependencies:
+    - install_dependencies
+  only:
+    - master
+    - merge_requests
+
+build:
+  stage: build
+  image: node:14.15.4
+  artifacts:
+    paths:
+      - build
+  script:
+    - CI='' npm run build
+  only:
+    - master
+    - merge_requests

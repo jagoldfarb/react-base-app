@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component Should render the button as a link 1`] = `
+<DocumentFragment>
+  <a
+    href="/home"
+  >
+    <button
+      class="sc-bdfBwQ ejaaIL"
+      data-testid="button"
+      type="button"
+    >
+      <span>
+        I am a button
+      </span>
+    </button>
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button Component Should render the button with onClick function 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ ejaaIL"
+    data-testid="button"
+    type="button"
+  >
+    <span>
+      I am a button
+    </span>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button Component Should render the button without functionality 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ ejaaIL"
+    data-testid="button"
+    type="button"
+  >
+    <span>
+      I am a button
+    </span>
+  </button>
+</DocumentFragment>
+`;

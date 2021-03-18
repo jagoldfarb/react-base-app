@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error view Should render the error page 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fFubgz ghXXhE"
+  >
+    <div
+      class="sc-gsTCUz isGlRi"
+      data-testid="header"
+    >
+      <div
+        class="sc-dlfnbm sofHW"
+      >
+        <div
+          class="sc-bdfBwQ fajWDP"
+          data-testid="logo"
+        >
+          <a
+            href="/home"
+          >
+            Logo
+          </a>
+        </div>
+        <div
+          class="sc-hKgILt MKpTd"
+          data-testid="menu-overlay"
+        />
+        <div
+          class="sc-eCssSg laWbwL"
+          data-testid="menu-content"
+        >
+          <div
+            class="sc-jSgupP dgpcrU"
+          >
+            <svg
+              class="sc-gKsewC gPMeTF"
+            >
+              open-menu.svg
+            </svg>
+          </div>
+          <ul
+            class="sc-fubCfw cmWXKT"
+          >
+            <li>
+              <a
+                data-testid="nav-link-1"
+                href="/link-1"
+              >
+                Link 1
+              </a>
+            </li>
+            <li>
+              <a
+                data-testid="nav-link-2"
+                href="/link-2"
+              >
+                Link 2
+              </a>
+            </li>
+            <li>
+              <a
+                data-testid="nav-link-3"
+                href="/link-3"
+              >
+                Link 3
+              </a>
+            </li>
+            <li>
+              <a
+                data-testid="nav-link-signup"
+                href="/signup"
+              >
+                Sign Up
+              </a>
+            </li>
+            <li>
+              <a
+                data-testid="nav-link-login"
+                href="/login"
+              >
+                Log In
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bkzZxe eAnuUR"
+    >
+      <div
+        class="sc-idOhPF bcrWPj"
+        data-testid="error-view"
+      >
+        <h1>
+          Page not found
+        </h1>
+      </div>
+    </div>
+    <footer
+      class="sc-pFZIQ bJlbpl"
+      data-testid="footer"
+    >
+      <div
+        class="sc-jrAGrp duSMMQ"
+      >
+        <div
+          class="sc-kEjbxe eAqEvN"
+        >
+          <div
+            class="sc-bdfBwQ kCPbJH"
+            data-testid="logo"
+          >
+            <a
+              href="/home"
+            >
+              Logo
+            </a>
+          </div>
+          <p
+            class="sc-iqHYGH bczUIk"
+          >
+            © Copyright 2021
+          </p>
+        </div>
+        <div
+          class="sc-crrsfI hIsiGn"
+        >
+          <ul
+            class="sc-dQppl jVPArR"
+            data-testid="footer-links-container"
+          >
+            <li>
+              <a
+                href="/link-1"
+              >
+                Link 1
+              </a>
+            </li>
+            <li>
+              <a
+                href="/link-2"
+              >
+                Link 2
+              </a>
+            </li>
+            <li>
+              <a
+                href="/link-3"
+              >
+                Link 3
+              </a>
+            </li>
+          </ul>
+          <div
+            class="sc-bqyKva botMR"
+            data-testid="footer-social-medias-container"
+          >
+            <a
+              href="https://www.linkedin.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-fodVxV kVUtmk"
+              >
+                LinkedInIcon.svg
+              </svg>
+            </a>
+            <a
+              href="https://www.instagram.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-hBEYos begnOL"
+              >
+                InstagramIcon.svg
+              </svg>
+            </a>
+            <a
+              href="https://www.facebook.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-kstrdz BPBfR"
+              >
+                FacebookIcon.svg
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+</DocumentFragment>
+`;

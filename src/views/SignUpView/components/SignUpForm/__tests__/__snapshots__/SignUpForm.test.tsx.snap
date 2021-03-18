@@ -1,0 +1,901 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUp Form Should render the signup form empty 1`] = `
+<DocumentFragment>
+  <form
+    class="sc-eCssSg jvctCF"
+    data-testid="signup-form"
+  >
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink="false"
+        >
+          First name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-First name"
+            maxlength="255"
+            name="firstName"
+            rows="3"
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-3"
+            >
+              <span>
+                First name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink="false"
+        >
+          Last name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Last name"
+            maxlength="255"
+            name="lastName"
+            rows="3"
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-3"
+            >
+              <span>
+                Last name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink="false"
+        >
+          Email
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Email"
+            maxlength="255"
+            name="email"
+            rows="3"
+            type="email"
+            value=""
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-3"
+            >
+              <span>
+                Email
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink="false"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password"
+            maxlength="255"
+            name="password"
+            rows="3"
+            type="password"
+            value=""
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-3"
+            >
+              <span>
+                Password
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink="false"
+        >
+          Password confirmation
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password confirmation"
+            maxlength="255"
+            name="passwordConfirmation"
+            rows="3"
+            type="password"
+            value=""
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-3"
+            >
+              <span>
+                Password confirmation
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-jSgupP fXngXj"
+    >
+      By creating an account, you agree and accept our
+      <a
+        class="sc-gKsewC jHReib"
+        href="/terms-and-conditions"
+      >
+        Terms and Conditions
+      </a>
+    </div>
+    <div
+      class="sc-iBPRYJ kKaNZa"
+    >
+      <button
+        class="sc-hKgILt bytOKm"
+        data-testid="button"
+        type="submit"
+      >
+        Sign Up
+      </button>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`SignUp Form Should render the signup form filled and press submit 1`] = `
+<DocumentFragment>
+  <form
+    class="sc-eCssSg jvctCF"
+    data-testid="signup-form"
+  >
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          First name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-First name"
+            maxlength="255"
+            name="firstName"
+            rows="3"
+            type="text"
+            value="John"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-7 PrivateNotchedOutline-legendNotched-8"
+            >
+              <span>
+                First name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Last name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Last name"
+            maxlength="255"
+            name="lastName"
+            rows="3"
+            type="text"
+            value="Doe"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-7 PrivateNotchedOutline-legendNotched-8"
+            >
+              <span>
+                Last name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Email
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Email"
+            maxlength="255"
+            name="email"
+            rows="3"
+            type="email"
+            value="johndoe@gmail.com"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-7 PrivateNotchedOutline-legendNotched-8"
+            >
+              <span>
+                Email
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="true"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password"
+            maxlength="255"
+            name="password"
+            rows="3"
+            type="password"
+            value="123456789"
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-7 PrivateNotchedOutline-legendNotched-8"
+            >
+              <span>
+                Password
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="sc-dlfnbm bOmIgN"
+        data-testid="error-block"
+      >
+        Password require at least 1 uppercase character, numbers and symbol
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Password confirmation
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="true"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password confirmation"
+            maxlength="255"
+            name="passwordConfirmation"
+            rows="3"
+            type="password"
+            value="123456789"
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-7 PrivateNotchedOutline-legendNotched-8"
+            >
+              <span>
+                Password confirmation
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="sc-dlfnbm bOmIgN"
+        data-testid="error-block"
+      >
+        Password require at least 1 uppercase character, numbers and symbol
+      </div>
+    </div>
+    <div
+      class="sc-jSgupP fXngXj"
+    >
+      By creating an account, you agree and accept our
+      <a
+        class="sc-gKsewC jHReib"
+        href="/terms-and-conditions"
+      >
+        Terms and Conditions
+      </a>
+    </div>
+    <div
+      class="sc-iBPRYJ kKaNZa"
+    >
+      <button
+        class="sc-hKgILt bytOKm"
+        data-testid="button"
+        type="submit"
+      >
+        Sign Up
+      </button>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`SignUp Form Should render the signup form filled with wrong fields 1`] = `
+<DocumentFragment>
+  <form
+    class="sc-eCssSg jvctCF"
+    data-testid="signup-form"
+  >
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          First name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-First name"
+            maxlength="255"
+            name="firstName"
+            rows="3"
+            type="text"
+            value="John"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-11 PrivateNotchedOutline-legendNotched-12"
+            >
+              <span>
+                First name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Last name
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Last name"
+            maxlength="255"
+            name="lastName"
+            rows="3"
+            type="text"
+            value="Doe"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-11 PrivateNotchedOutline-legendNotched-12"
+            >
+              <span>
+                Last name
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Email
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="true"
+            class="MuiInputBase-input MuiOutlinedInput-input"
+            data-testid="input-Email"
+            maxlength="255"
+            name="email"
+            rows="3"
+            type="email"
+            value="johndoegmail.com"
+          />
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-11 PrivateNotchedOutline-legendNotched-12"
+            >
+              <span>
+                Email
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="sc-dlfnbm bOmIgN"
+        data-testid="error-block"
+      >
+        Invalid email address
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="true"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password"
+            maxlength="255"
+            name="password"
+            rows="3"
+            type="password"
+            value="123456789"
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-11 PrivateNotchedOutline-legendNotched-12"
+            >
+              <span>
+                Password
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="sc-dlfnbm bOmIgN"
+        data-testid="error-block"
+      >
+        Password require at least 1 uppercase character, numbers and symbol
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ cgTScR"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+          data-shrink="true"
+        >
+          Password confirmation
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        >
+          <input
+            aria-invalid="true"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            data-testid="input-Password confirmation"
+            maxlength="255"
+            name="passwordConfirmation"
+            rows="3"
+            type="password"
+            value="123456"
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="toggle-password-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="PrivateNotchedOutline-legendLabelled-11 PrivateNotchedOutline-legendNotched-12"
+            >
+              <span>
+                Password confirmation
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="sc-dlfnbm bOmIgN"
+        data-testid="error-block"
+      >
+        Password does not match
+      </div>
+    </div>
+    <div
+      class="sc-jSgupP fXngXj"
+    >
+      By creating an account, you agree and accept our
+      <a
+        class="sc-gKsewC jHReib"
+        href="/terms-and-conditions"
+      >
+        Terms and Conditions
+      </a>
+    </div>
+    <div
+      class="sc-iBPRYJ kKaNZa"
+    >
+      <button
+        class="sc-hKgILt bytOKm"
+        data-testid="button"
+        type="submit"
+      >
+        Sign Up
+      </button>
+    </div>
+  </form>
+</DocumentFragment>
+`;

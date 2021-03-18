@@ -1,0 +1,8 @@
+import i18next from 'i18next';
+import { locales } from 'configs/i18n';
+
+i18next.addResources(locales.EN, 'LOGIN_VIEW', {
+  DONT_HAVE_ACCOUNT: "Don't have an account?",
+  LOGIN: 'Log In',
+  SIGNUP: 'Sign Up',
+});

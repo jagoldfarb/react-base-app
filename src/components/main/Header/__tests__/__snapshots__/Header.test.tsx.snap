@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component Should render the header 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz isGlRi"
+    data-testid="header"
+  >
+    <div
+      class="sc-dlfnbm sofHW"
+    >
+      <div
+        class="sc-bdfBwQ fajWDP"
+        data-testid="logo"
+      >
+        <a
+          href="/home"
+        >
+          Logo
+        </a>
+      </div>
+      <div
+        class="sc-hKgILt MKpTd"
+        data-testid="menu-overlay"
+      />
+      <div
+        class="sc-eCssSg laWbwL"
+        data-testid="menu-content"
+      >
+        <div
+          class="sc-jSgupP dgpcrU"
+        >
+          <svg
+            class="sc-gKsewC gPMeTF"
+          >
+            open-menu.svg
+          </svg>
+        </div>
+        <ul
+          class="sc-fubCfw cmWXKT"
+        >
+          <li>
+            <a
+              data-testid="nav-link-1"
+              href="/link-1"
+            >
+              Link 1
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-2"
+              href="/link-2"
+            >
+              Link 2
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-3"
+              href="/link-3"
+            >
+              Link 3
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-signup"
+              href="/signup"
+            >
+              Sign Up
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-login"
+              href="/login"
+            >
+              Log In
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Header component Should render the header with menu opened 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz isGlRi"
+    data-testid="header"
+  >
+    <div
+      class="sc-dlfnbm sofHW"
+    >
+      <div
+        class="sc-bdfBwQ fajWDP"
+        data-testid="logo"
+      >
+        <a
+          href="/home"
+        >
+          Logo
+        </a>
+      </div>
+      <div
+        class="sc-hKgILt geDgRy"
+        data-testid="menu-overlay"
+      />
+      <div
+        class="sc-eCssSg laWbwL"
+        data-testid="menu-content"
+      >
+        <div
+          class="sc-jSgupP dgpcrU"
+        >
+          <svg
+            class="sc-iBPRYJ jkRnWh"
+          >
+            close-menu.svg
+          </svg>
+        </div>
+        <ul
+          class="sc-fubCfw dBpaIJ"
+        >
+          <li>
+            <a
+              data-testid="nav-link-1"
+              href="/link-1"
+            >
+              Link 1
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-2"
+              href="/link-2"
+            >
+              Link 2
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-3"
+              href="/link-3"
+            >
+              Link 3
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-signup"
+              href="/signup"
+            >
+              Sign Up
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-login"
+              href="/login"
+            >
+              Log In
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Header component Should render the header with user logged in 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz isGlRi"
+    data-testid="header"
+  >
+    <div
+      class="sc-dlfnbm sofHW"
+    >
+      <div
+        class="sc-bdfBwQ fajWDP"
+        data-testid="logo"
+      >
+        <a
+          href="/home"
+        >
+          Logo
+        </a>
+      </div>
+      <div
+        class="sc-hKgILt MKpTd"
+        data-testid="menu-overlay"
+      />
+      <div
+        class="sc-eCssSg laWbwL"
+        data-testid="menu-content"
+      >
+        <div
+          class="sc-jSgupP dgpcrU"
+        >
+          <svg
+            class="sc-gKsewC gPMeTF"
+          >
+            open-menu.svg
+          </svg>
+        </div>
+        <ul
+          class="sc-fubCfw cmWXKT"
+        >
+          <li>
+            <a
+              data-testid="nav-link-1"
+              href="/link-1"
+            >
+              Link 1
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-2"
+              href="/link-2"
+            >
+              Link 2
+            </a>
+          </li>
+          <li>
+            <a
+              data-testid="nav-link-3"
+              href="/link-3"
+            >
+              Link 3
+            </a>
+          </li>
+          <li>
+            <span
+              data-testid="nav-link-logout"
+              role="presentation"
+            >
+              Log Out
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal Component Should render the modal and press enter 1`] = `<DocumentFragment />`;
+
+exports[`Modal Component Should render the modal and press escape 1`] = `<DocumentFragment />`;
+
+exports[`Modal Component Should render the modal disabled 1`] = `<DocumentFragment />`;
+
+exports[`Modal Component Should render the modal opened 1`] = `<DocumentFragment />`;
+
+exports[`Modal Component Should render the modal opened and click close 1`] = `<DocumentFragment />`;
+
+exports[`Modal Component Should render the modal opened and click close without functionality 1`] = `<DocumentFragment />`;

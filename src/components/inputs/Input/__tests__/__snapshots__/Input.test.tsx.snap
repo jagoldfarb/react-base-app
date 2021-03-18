@@ -1,0 +1,308 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component Should render the input 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+      >
+        Email
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          data-testid="input-Email"
+          maxlength="255"
+          name="email"
+          rows="3"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="PrivateNotchedOutline-legendLabelled-3"
+          >
+            <span>
+              Email
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Input Component Should render the input and change the value 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+      >
+        Email
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          data-testid="input-Email"
+          maxlength="255"
+          name="email"
+          rows="3"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-17 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="PrivateNotchedOutline-legendLabelled-19"
+          >
+            <span>
+              Email
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Input Component Should render the input as a password input 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+      >
+        Password
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          data-testid="input-Password"
+          maxlength="255"
+          name="email"
+          rows="3"
+          type="text"
+          value=""
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-label="toggle password visibility"
+            class="MuiButtonBase-root MuiIconButton-root"
+            data-testid="toggle-password-button"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-9 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="PrivateNotchedOutline-legendLabelled-11"
+          >
+            <span>
+              Password
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Input Component Should render the input as a textarea input 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+      >
+        Message
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-multiline MuiOutlinedInput-multiline"
+      >
+        <textarea
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline MuiOutlinedInput-inputMultiline"
+          data-testid="input-Message"
+          maxlength="255"
+          name="email"
+          rows="3"
+          style="height: 0px; overflow: hidden;"
+        />
+        <textarea
+          aria-hidden="true"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline MuiOutlinedInput-inputMultiline"
+          readonly=""
+          style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); width: 100%;"
+          tabindex="-1"
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-13 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="PrivateNotchedOutline-legendLabelled-15"
+          >
+            <span>
+              Message
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Input Component Should render the input with errors 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-error Mui-error"
+        data-shrink="false"
+      >
+        Email
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="true"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          data-testid="input-Email"
+          maxlength="255"
+          name="email"
+          rows="3"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-21 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="PrivateNotchedOutline-legendLabelled-23"
+          >
+            <span>
+              Email
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      class="sc-dlfnbm bOmIgN"
+      data-testid="error-block"
+    >
+      Required
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Input Component Should render the input with no label 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cgTScR"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-gsTCUz jKtOdX"
+    >
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          data-testid="input-"
+          maxlength="255"
+          name="email"
+          rows="3"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-6"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

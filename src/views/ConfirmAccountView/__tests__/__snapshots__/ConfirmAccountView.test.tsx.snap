@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ConfirmAccountView view Should render the confirm account page 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dlfnbm jxbMaU"
+    data-testid="confirm-account-view"
+  >
+    <div
+      class="sc-bdfBwQ cyXInH"
+    >
+      <div
+        class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+        data-testid="loader"
+        role="progressbar"
+        style="width: 65px; height: 65px;"
+      >
+        <svg
+          class="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx="44"
+            cy="44"
+            fill="none"
+            r="20.2"
+            stroke-width="3.6"
+          />
+        </svg>
+      </div>
+      <span
+        class="sc-gsTCUz ISRsW"
+      >
+        The account is being verified
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

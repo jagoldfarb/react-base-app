@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home View Should render the home view 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ fVMqjX"
+    data-testid="home-view"
+  >
+    <h1>
+      Home
+    </h1>
+  </div>
+</DocumentFragment>
+`;

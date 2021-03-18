@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo Component Should render the logo with dark mode off 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ fajWDP"
+    data-testid="logo"
+  >
+    <a
+      href="/home"
+    >
+      Logo
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Logo Component Should render the logo with dark mode on 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ kCPbJH"
+    data-testid="logo"
+  >
+    <a
+      href="/home"
+    >
+      Logo
+    </a>
+  </div>
+</DocumentFragment>
+`;
